@@ -1,0 +1,50 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 828px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  height: auto;
+  min-height: 692px;
+  margin-top: 4px;
+  margin-bottom: 60px;
+  background-image: none;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+} body {
+    font-family: Arial, sans-serif;
+  }
+  form {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  input[type="text"],
+  input[type="number"],
+  select,
+  input[type="file"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #ccc;
+  }
+  input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  input[type="submit"]:hover {
+    background-color: #45a049;
+  } 
